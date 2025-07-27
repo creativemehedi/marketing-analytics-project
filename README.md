@@ -37,4 +37,12 @@ The project follows a standard data analysis workflow:
 *   **Power BI / Tableau (Conceptual):** A dashboard mockup is provided to illustrate how the insights could be presented interactively.
 
 ## Project Structure
-
+marketing-analytics-project/
+├── DummyDataHSS.csv
+├── marketing_analysis.py
+├── correlation_matrix.png
+├── distributions.png
+├── sales_by_influencer.png
+├── actual_vs_predicted_sales.png
+├── dashboard_mockup.md
+└── README.md
