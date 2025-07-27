@@ -37,6 +37,7 @@ The project follows a standard data analysis workflow:
 *   **Power BI / Tableau (Conceptual):** A dashboard mockup is provided to illustrate how the insights could be presented interactively.
 
 ## Project Structure
+
 marketing-analytics-project/
 ├── DummyDataHSS.csv
 ├── marketing_analysis.py
@@ -94,4 +95,3 @@ These recommendations aim to enhance marketing effectiveness by focusing on chan
 ## Dashboard (Conceptual)
 
 Refer to `dashboard_mockup.md` for the conceptual design of a Power BI/Tableau dashboard that would visualize the findings of this analysis. This includes proposed charts, key metrics, and interactive elements.
-Please
